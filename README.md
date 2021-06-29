@@ -8,7 +8,7 @@ Grupo en Telegram https://t.me/Pen7esting
 
 Es un pequeño script en lenguaje de python en la version 2.7, es un generador de diccionarios, opcion 1 - numericos de menor a mayor, opcion 2 - imprime algun nombre con todas
 las fechas que se generen, opcion 3 - pide algun tipo de informacion como nombre, fecha inicio y fecha final, mascota, etc. el cual al final hace la convinacion de las fechas con
-cada dato ingresado y la opcion 5 - salir del programa.
+cada dato ingresado y la opcion 5 - salir del programa, cabe resaltar que con cada opcion ejecutada se crea un diccionario en la ubicacion o ruta donde se encuentra el script.
 
 ## Sistema Operativo
 
