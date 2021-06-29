@@ -22,3 +22,4 @@ Se provo en windows 10
 
 ## Uso
 
+![py](https://user-images.githubusercontent.com/67207446/123738848-38bddf80-d86b-11eb-8ce9-dc2769ee65a6.png)
