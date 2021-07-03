@@ -10,7 +10,7 @@ Es un pequeño script en lenguaje de Python en la versión 2.7, es un generador 
 
 ## Sistema Operativo
 
-Se probó en windows 10
+Se probó en windows 10 y ParrotOS 4.11
 
 ## Version de python
 
