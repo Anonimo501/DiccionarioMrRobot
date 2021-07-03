@@ -16,7 +16,7 @@ Se probó en windows 10
 
 2.7
 
-![Captura](https://user-images.githubusercontent.com/67207446/123738059-b97bdc00-d869-11eb-9d6a-08285129a42f.PNG)
+![Captura PNG](https://user-images.githubusercontent.com/67207446/124360856-aebaa180-dbf1-11eb-82e2-719f2a30c491.png)
 
 ## Uso
 
